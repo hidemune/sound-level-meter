@@ -1,4 +1,4 @@
-## Noise meter
+# Noise meter
 
 Sound pressure is measured for heavy bass components based on our own standards.
 
@@ -13,13 +13,13 @@ Sound pressure is measured for heavy bass components based on our own standards.
 2022/08/28 07:12:04  whole:44.9[dB]  BASS:20.3[dB] Peak:low 244Hz   library
 
 
-# install
+## install
 
 sudo apt-get install python3-pyaudio
 
 pip3 install pyaudio
 
-# How to use (in terminal)
+## How to use (in terminal)
 
 For the "Shure" part, enter a string that identifies the microphone.
 
@@ -27,7 +27,7 @@ python3 noise_level_measurement_English.py Shure &
 
 tail -f log.txt
 
-# To identify the microphone
+## To identify the microphone
 
 At the beginning of log.txt, you will see the following output, so refer to this and specify a unique string.
 
@@ -46,7 +46,7 @@ DEVICE_INDEX:10, DEVICE_NAME:default
 
 
 
-## 騒音計
+# 騒音計
 
 ・重低音の成分について、独自の基準で音圧を計測しています。
 
@@ -59,13 +59,13 @@ DEVICE_INDEX:10, DEVICE_NAME:default
 2022/08/28 04:37:57  全域:39.4[dB]     重低音:15.9[dB]     Peak:低音104Hz ・図書館
 
 
-# install
+## install
 
 sudo apt-get install python3-pyaudio
 
 pip3 install pyaudio
 
-# 使い方(ターミナルにて)
+## 使い方(ターミナルにて)
 
 Shure の部分は、マイクを特定する文字列を入力します。
 
@@ -73,7 +73,7 @@ python3 noise_level_measurement.py Shure &
 
 tail -f log.txt
 
-# マイクの特定について
+## マイクの特定について
 
 log.txt の先頭に、以下のような出力が出ますので、これを参考にユニークな文字列を指定して下さい。
 
