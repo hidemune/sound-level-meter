@@ -19,7 +19,24 @@ pip3 install pyaudio
 
 # 使い方(ターミナルにて)
 
+Shure の部分は、マイクを特定する文字列を入力します。
+
 python3 noise_level_measurement.py Shure &
 
 tail -f log.txt
 
+# マイクの特定について
+
+log.txt の先頭に、以下のような出力が出ますので、これを参考にユニークな文字列を指定して下さい。
+
+DEVICE_INDEX:0, DEVICE_NAME:Shure MV7: USB Audio (hw:1,0)
+DEVICE_INDEX:1, DEVICE_NAME:HDA Intel PCH: ALC887-VD Analog (hw:2,0)
+DEVICE_INDEX:2, DEVICE_NAME:HDA Intel PCH: ALC887-VD Alt Analog (hw:2,2)
+DEVICE_INDEX:3, DEVICE_NAME:HDA NVidia: HDMI 0 (hw:3,3)
+DEVICE_INDEX:4, DEVICE_NAME:HDA NVidia: HDMI 1 (hw:3,7)
+DEVICE_INDEX:5, DEVICE_NAME:HDA NVidia: HDMI 2 (hw:3,8)
+DEVICE_INDEX:6, DEVICE_NAME:HDA NVidia: HDMI 3 (hw:3,9)
+DEVICE_INDEX:7, DEVICE_NAME:HDA NVidia: HDMI 4 (hw:3,10)
+DEVICE_INDEX:8, DEVICE_NAME:HDA NVidia: HDMI 5 (hw:3,11)
+DEVICE_INDEX:9, DEVICE_NAME:pulse
+DEVICE_INDEX:10, DEVICE_NAME:default
