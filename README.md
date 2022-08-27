@@ -19,7 +19,7 @@ pip3 install pyaudio
 
 # 使い方(ターミナルにて)
 
-python3 noise_level_measurement.py &
+python3 noise_level_measurement.py Shure &
 
 tail -f log.txt
 

@@ -16,7 +16,11 @@ import datetime
 #import pow
 
 # String identifying the microphone
-MICROPHONE = 'Shure'
+# check args
+if (len(sys.argv) < 2) :
+    print("Please specify MICROPHONE in String")
+    sys.exit(-1)
+MICROPHONE = sys.argv[1]
 
 file_path = 'log.txt'
 sys.stdout = open(file_path, "w")
@@ -48,11 +52,6 @@ def getIndex(strp):
             ret = device_info["index"]
     p.terminate()
     return ret
-
-# check args
-#if (len(sys.argv) < 2) or (not sys.argv[1].isdecimal()):
-#    print("Please specify input_device_index in integer")
-#    sys.exit(-1)
 
 p = pyaudio.PyAudio()
 
