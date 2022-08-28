@@ -2,6 +2,8 @@
 
 Sound pressure is measured for heavy bass components based on our own standards.
 
+A microphone with a frequency of 44 kHz or higher is required.
+
 (Sample)
 
 2022/08/28 07:11:53  whole:41.9[dB]  BASS:19.3[dB] Peak:low 166Hz   library<br>
@@ -17,7 +19,10 @@ Sound pressure is measured for heavy bass components based on our own standards.
 
 sudo apt-get install python3-pyaudio
 
-pip3 install pyaudio
+sudo pip3 install pyaudio
+sudo pip3 install scipy
+sudo pip3 install numpy
+
 
 ## How to use (in terminal)
 
@@ -50,6 +55,8 @@ DEVICE_INDEX:10, DEVICE_NAME:default<br>
 
 ・重低音の成分について、独自の基準で音圧を計測しています。
 
+・44kHz以上の周波数のマイクが必要です。
+
 サンプル）
 
 2022/08/28 04:37:50  全域:36.3[dB]     重低音:14.0[dB]     Peak:低音100Hz ・図書館<br>
@@ -63,7 +70,10 @@ DEVICE_INDEX:10, DEVICE_NAME:default<br>
 
 sudo apt-get install python3-pyaudio
 
-pip3 install pyaudio
+sudo pip3 install pyaudio
+sudo pip3 install scipy
+sudo pip3 install numpy
+
 
 ## 使い方(ターミナルにて)
 
