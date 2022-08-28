@@ -13,36 +13,39 @@ DEVICE_INDEX:10, DEVICE_NAME:default
 1 CHANNELS
 44100 SAMPLING_RATE
 1024 CHUNK
-2022/08/28 14:03:21  whole:38.8[dB] BASS:15.0[dB] Peak:low 294Hz library
-2022/08/28 14:03:23  whole:38.8[dB] BASS:16.3[dB] Peak:low 257Hz library
-2022/08/28 14:03:24  whole:37.5[dB] BASS:17.4[dB] Peak:mid 331Hz library
-2022/08/28 14:03:26  whole:39.8[dB] BASS:14.9[dB] Peak:mid 310Hz library
-2022/08/28 14:03:28  whole:38.4[dB] BASS:16.7[dB] Peak:mid 346Hz library
-2022/08/28 14:03:30  whole:38.6[dB] BASS:16.4[dB] Peak:low 186Hz library
-2022/08/28 14:03:32  whole:38.0[dB] BASS:13.2[dB] Peak:low 278Hz library
-2022/08/28 14:03:34  whole:50.1[dB] BASS:21.0[dB] Peak:mid 522Hz Quiet_office
-2022/08/28 14:03:36  whole:41.7[dB] BASS:16.1[dB] Peak:low 282Hz library
-2022/08/28 14:03:37  whole:39.9[dB] BASS:17.0[dB] Peak:mid 379Hz library
-2022/08/28 14:03:39  whole:41.2[dB] BASS:17.8[dB] Peak:low 254Hz library
-2022/08/28 14:03:41  whole:40.7[dB] BASS:15.1[dB] Peak:mid 334Hz library
-2022/08/28 14:03:43  whole:39.7[dB] BASS:14.3[dB] Peak:low 286Hz library
-2022/08/28 14:03:45  whole:40.8[dB] BASS:17.3[dB] Peak:mid 335Hz library
-2022/08/28 14:03:47  whole:41.2[dB] BASS:18.5[dB] Peak:mid 376Hz library
-2022/08/28 14:03:48  whole:42.6[dB] BASS:18.5[dB] Peak:low 289Hz library
-2022/08/28 14:03:50  whole:42.1[dB] BASS:17.7[dB] Peak:low 280Hz library
-2022/08/28 14:03:52  whole:43.1[dB] BASS:15.5[dB] Peak:mid 1328Hz library
-2022/08/28 14:03:54  whole:40.5[dB] BASS:15.3[dB] Peak:low 171Hz library
-2022/08/28 14:03:56  whole:40.8[dB] BASS:15.6[dB] Peak:low 247Hz library
-2022/08/28 14:03:58  whole:38.1[dB] BASS:16.4[dB] Peak:low 277Hz library
-2022/08/28 14:03:59  whole:42.0[dB] BASS:17.5[dB] Peak:low 280Hz library
-2022/08/28 14:04:01  whole:41.4[dB] BASS:16.8[dB] Peak:low 166Hz library
-2022/08/28 14:04:03  whole:39.9[dB] BASS:16.2[dB] Peak:low 171Hz library
-2022/08/28 14:04:05  whole:36.9[dB] BASS:15.3[dB] Peak:low 162Hz library
-2022/08/28 14:04:07  whole:40.5[dB] BASS:15.0[dB] Peak:mid 563Hz library
-2022/08/28 14:04:09  whole:41.4[dB] BASS:15.4[dB] Peak:mid 573Hz library
-2022/08/28 14:04:11  whole:41.3[dB] BASS:16.2[dB] Peak:mid 381Hz library
-2022/08/28 14:04:12  whole:37.9[dB] BASS:13.4[dB] Peak:mid 330Hz library
-2022/08/28 14:04:14  whole:40.5[dB] BASS:16.1[dB] Peak:mid 380Hz library
-2022/08/28 14:04:16  whole:44.0[dB] BASS:17.4[dB] Peak:mid 567Hz library
-2022/08/28 14:04:18  whole:41.8[dB] BASS:16.5[dB] Peak:mid 379Hz library
-2022/08/28 14:04:20  whole:41.3[dB] 
+2022/08/28 14:16:44  whole: 35.0[dB] BASS: 11.3[dB] Peak:low  289Hz Suburban_Late_Night
+2022/08/28 14:16:45  whole: 36.5[dB] BASS: 13.9[dB] Peak:low  297Hz library
+2022/08/28 14:16:47  whole: 35.1[dB] BASS: 10.8[dB] Peak:low  253Hz library
+2022/08/28 14:16:49  whole: 36.9[dB] BASS: 13.9[dB] Peak:low  251Hz library
+2022/08/28 14:16:51  whole: 36.9[dB] BASS: 13.1[dB] Peak:low  287Hz library
+2022/08/28 14:16:53  whole: 37.8[dB] BASS: 13.9[dB] Peak:mid  335Hz library
+2022/08/28 14:16:55  whole: 36.1[dB] BASS: 11.9[dB] Peak:low  287Hz library
+2022/08/28 14:16:56  whole: 35.6[dB] BASS: 11.3[dB] Peak:low  258Hz library
+2022/08/28 14:16:58  whole: 37.5[dB] BASS: 12.9[dB] Peak:low  245Hz library
+2022/08/28 14:17:00  whole: 35.5[dB] BASS: 11.8[dB] Peak:mid  331Hz library
+2022/08/28 14:17:02  whole: 36.2[dB] BASS: 13.6[dB] Peak:low  248Hz library
+2022/08/28 14:17:04  whole: 33.2[dB] BASS: 11.6[dB] Peak:low  253Hz Suburban_Late_Night
+2022/08/28 14:17:06  whole: 39.7[dB] BASS: 15.3[dB] Peak:low  244Hz library
+2022/08/28 14:17:07  whole: 38.7[dB] BASS: 12.2[dB] Peak:low  296Hz library
+2022/08/28 14:17:09  whole: 35.3[dB] BASS: 14.8[dB] Peak:low  246Hz library
+2022/08/28 14:17:11  whole: 36.2[dB] BASS: 15.7[dB] Peak:low  290Hz library
+2022/08/28 14:17:13  whole: 33.8[dB] BASS: 13.5[dB] Peak:low  282Hz Suburban_Late_Night
+2022/08/28 14:17:15  whole: 38.5[dB] BASS: 15.2[dB] Peak:mid  328Hz library
+2022/08/28 14:17:17  whole: 38.7[dB] BASS: 12.4[dB] Peak:mid  742Hz library
+2022/08/28 14:17:18  whole: 39.9[dB] BASS: 16.5[dB] Peak:mid  366Hz library
+2022/08/28 14:17:20  whole: 37.9[dB] BASS: 16.5[dB] Peak:low  249Hz library
+2022/08/28 14:17:22  whole: 34.2[dB] BASS: 12.7[dB] Peak:mid  373Hz Suburban_Late_Night
+2022/08/28 14:17:24  whole: 35.0[dB] BASS: 13.5[dB] Peak:mid  302Hz Suburban_Late_Night
+2022/08/28 14:17:25  whole: 37.4[dB] BASS: 17.2[dB] Peak:low  289Hz library
+2022/08/28 14:17:27  whole: 39.3[dB] BASS: 14.8[dB] Peak:mid  375Hz library
+2022/08/28 14:17:29  whole: 52.3[dB] BASS: 21.1[dB] Peak:mid  411Hz Quiet_office
+2022/08/28 14:17:31  whole: 36.8[dB] BASS: 13.4[dB] Peak:low  238Hz library
+2022/08/28 14:17:33  whole: 37.2[dB] BASS: 14.2[dB] Peak:low  248Hz library
+2022/08/28 14:17:35  whole: 36.6[dB] BASS: 13.3[dB] Peak:low  294Hz library
+2022/08/28 14:17:36  whole: 36.1[dB] BASS: 15.8[dB] Peak:low  249Hz library
+2022/08/28 14:17:38  whole: 29.0[dB] BASS: 12.8[dB] Peak:low  244Hz Suburban_Late_Night
+2022/08/28 14:17:40  whole: 38.5[dB] BASS: 16.9[dB] Peak:bass  76Hz library
+2022/08/28 14:17:42  whole: 38.0[dB] BASS: 17.4[dB] Peak:mid  375Hz library
+2022/08/28 14:17:44  whole: 36.7[dB] BASS: 16.6[dB] Peak:mid  326Hz library
+2022/08/28 14:17:46  whole: 37.2[dB] BASS: 16.9[dB] Peak:bass  95Hz library
+2022/08/28 14:17:48  whole: 36.6[dB] BASS: 15.7[dB] Peak:low  247Hz library

@@ -141,7 +141,7 @@ def main():
                     strw = s
             now = datetime.datetime.now()
             print(now.strftime("%Y/%m/%d %H:%M:%S "), end='')
-            print(" whole:{:.1f}[dB] ".format(db), end='')
+            print(" whole:{:5.1f}[dB] ".format(db), end='')
             
             if True:
                 fft_signal = fft(data)
@@ -169,13 +169,13 @@ def main():
                 flg = False
                 if maxid < 100:
                     flg = True
-                    strp = 'bass ' + str(maxid) + 'Hz'
+                    strp = 'bass' + "{:4d}".format(maxid) + 'Hz'
                 elif maxid < 300:
-                    strp = 'low ' + str(maxid) + 'Hz'
+                    strp = 'low ' + "{:4d}".format(maxid) + 'Hz'
                 elif maxid < 5000:
-                    strp = 'mid ' + str(maxid) + 'Hz'
+                    strp = 'mid ' + "{:4d}".format(maxid) + 'Hz'
                 else:
-                    strp = 'high ' + str(maxid) + 'Hz'
+                    strp = 'high' + "{:4d}".format(maxid) + 'Hz'
                 if db >= 55.0:
                     strw += ' *caution'
                     wgflg = True
@@ -187,7 +187,7 @@ def main():
                 rms2 = np.sqrt(np.mean([elm * elm for elm in y]))
                 # RMS to db
                 db2 = to_db(rms2, 20e-6)
-                print("BASS:{:.1f}[dB] ".format(db2), end='')
+                print("BASS:{:5.1f}[dB] ".format(db2), end='')
                 if db2 >= 40.0:
                     strw += ' *caution'
                     wgflg = True
