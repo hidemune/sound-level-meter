@@ -28,17 +28,17 @@ sys.stdout = open(file_path, "w")
 print("Note: This is only a guide.")
 
 mst = [[0,"silence"],
-        [15,"the sound of leaves rustling against each other"],
-        [25,"Suburban Late Night"],
+        [15,"the_sound_of_leaves_rustling_against_each_other"],
+        [25,"Suburban_Late_Night"],
         [35,"library"],
-        [45,"Quiet office"],
-        [55,"Vacuum cleaner (1m)"],
-        [65,"Cicada chirping (2m)"],
-        [75,"Inside a subway car"],
-        [85,"Dog barking (5m)"],
-        [95,"Under the guard when the train goes by"],
-        [105,"Car horn (2m)"],
-        [115,"Near jet (airplane) engines"],
+        [45,"Quiet_office"],
+        [55,"Vacuum_cleaner_(1m)"],
+        [65,"Cicada_chirping_(2m)"],
+        [75,"Inside_a_subway_car"],
+        [85,"Dog_barking_(5m)"],
+        [95,"Under_the_guard_when_the_train_goes_by"],
+        [105,"Car_horn_(2m)"],
+        [115,"Near_jet_(airplane)_engines"],
     ]
 
 
@@ -169,13 +169,13 @@ def main():
                 flg = False
                 if maxid < 100:
                     flg = True
-                    strp = 'bass' + str(maxid) + 'Hz'
+                    strp = 'bass ' + str(maxid) + 'Hz'
                 elif maxid < 300:
                     strp = 'low ' + str(maxid) + 'Hz'
                 elif maxid < 5000:
                     strp = 'mid ' + str(maxid) + 'Hz'
                 else:
-                    strp = 'high' + str(maxid) + 'Hz'
+                    strp = 'high ' + str(maxid) + 'Hz'
                 if db >= 55.0:
                     strw += ' *caution'
                     wgflg = True
@@ -233,9 +233,9 @@ def main():
                 fig.savefig(timestr + '.png')
                 im = Image.open(timestr + '.png')
                 im.show()
-                for proc in psutil.process_iter():
-                    if proc.name() == "display":
-                        proc.kill()
+            for proc in psutil.process_iter():
+                if proc.name() == "display":
+                    proc.kill()
             
 try:
     main()
