@@ -187,11 +187,11 @@ def main():
                 rms2 = np.sqrt(np.mean([elm * elm for elm in y]))
                 # RMS to db
                 db2 = to_db(rms2, 20e-6)
-                print(" BASS:{:.1f}[dB] ".format(db2), end='')
+                print("BASS:{:.1f}[dB] ".format(db2), end='')
                 if db2 >= 40.0:
                     strw += ' *caution'
                     wgflg = True
-                print('Peak:'+ strp,' ', strw, end='')
+                print('Peak:'+ strp, strw, end='')
                 
                 print('')
                 sys.stdout.flush()
