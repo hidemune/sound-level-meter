@@ -13,45 +13,167 @@ DEVICE_INDEX:10, DEVICE_NAME:default
 1 CHANNELS
 44100 SAMPLING_RATE
 1024 CHUNK
-2022/08/28 07:11:07  whole:43.8[dB]  BASS:21.1[dB] Peak:low 126Hz   library
-2022/08/28 07:11:09  whole:43.5[dB]  BASS:22.8[dB] Peak:low 193Hz   library
-2022/08/28 07:11:11  whole:44.4[dB]  BASS:22.6[dB] Peak:low 206Hz   library
-2022/08/28 07:11:12  whole:44.6[dB]  BASS:21.9[dB] Peak:low 161Hz   library
-2022/08/28 07:11:14  whole:43.8[dB]  BASS:21.8[dB] Peak:low 160Hz   library
-2022/08/28 07:11:16  whole:41.7[dB]  BASS:20.8[dB] Peak:low 161Hz   library
-2022/08/28 07:11:18  whole:42.5[dB]  BASS:21.1[dB] Peak:low 205Hz   library
-2022/08/28 07:11:20  whole:42.6[dB]  BASS:18.5[dB] Peak:low 258Hz   library
-2022/08/28 07:11:22  whole:42.1[dB]  BASS:22.9[dB] Peak:low 207Hz   library
-2022/08/28 07:11:23  whole:42.1[dB]  BASS:18.7[dB] Peak:low 205Hz   library
-2022/08/28 07:11:25  whole:43.1[dB]  BASS:13.3[dB] Peak:low 218Hz   library
-2022/08/28 07:11:27  whole:42.0[dB]  BASS:15.9[dB] Peak:low 204Hz   library
-2022/08/28 07:11:29  whole:42.0[dB]  BASS:17.0[dB] Peak:low 204Hz   library
-2022/08/28 07:11:31  whole:44.9[dB]  BASS:23.2[dB] Peak:low 157Hz   library
-2022/08/28 07:11:33  whole:44.3[dB]  BASS:18.0[dB] Peak:mid 396Hz   library
-2022/08/28 07:11:35  whole:43.1[dB]  BASS:19.1[dB] Peak:low 218Hz   library
-2022/08/28 07:11:36  whole:43.0[dB]  BASS:18.8[dB] Peak:low 203Hz   library
-2022/08/28 07:11:38  whole:42.2[dB]  BASS:20.3[dB] Peak:low 194Hz   library
-2022/08/28 07:11:40  whole:43.6[dB]  BASS:20.3[dB] Peak:mid 338Hz   library
-2022/08/28 07:11:42  whole:46.7[dB]  BASS:36.8[dB] Peak:low 137Hz   Quiet office
-2022/08/28 07:11:44  whole:42.1[dB]  BASS:28.1[dB] Peak:low 205Hz   library
-2022/08/28 07:11:46  whole:42.1[dB]  BASS:18.8[dB] Peak:low 206Hz   library
-2022/08/28 07:11:47  whole:44.1[dB]  BASS:18.1[dB] Peak:mid 386Hz   library
-2022/08/28 07:11:49  whole:42.1[dB]  BASS:20.9[dB] Peak:low 143Hz   library
-2022/08/28 07:11:51  whole:42.5[dB]  BASS:18.8[dB] Peak:low 254Hz   library
-2022/08/28 07:11:53  whole:41.9[dB]  BASS:19.3[dB] Peak:low 166Hz   library
-2022/08/28 07:11:55  whole:42.6[dB]  BASS:17.5[dB] Peak:mid 338Hz   library
-2022/08/28 07:11:56  whole:42.8[dB]  BASS:18.5[dB] Peak:low 225Hz   library
-2022/08/28 07:11:58  whole:41.8[dB]  BASS:18.7[dB] Peak:low 203Hz   library
-2022/08/28 07:12:00  whole:45.5[dB]  BASS:24.1[dB] Peak:low 156Hz   Quiet office
-2022/08/28 07:12:02  whole:44.4[dB]  BASS:19.4[dB] Peak:low 206Hz   library
-2022/08/28 07:12:04  whole:44.9[dB]  BASS:20.3[dB] Peak:low 244Hz   library
-2022/08/28 07:12:06  whole:43.6[dB]  BASS:19.3[dB] Peak:low 130Hz   library
-2022/08/28 07:12:07  whole:44.3[dB]  BASS:17.7[dB] Peak:low 226Hz   library
-2022/08/28 07:12:09  whole:43.9[dB]  BASS:21.7[dB] Peak:bass96Hz   library
-2022/08/28 07:12:11  whole:44.2[dB]  BASS:20.1[dB] Peak:low 186Hz   library
-2022/08/28 07:12:13  whole:43.6[dB]  BASS:19.9[dB] Peak:mid 336Hz   library
-2022/08/28 07:12:14  whole:43.2[dB]  BASS:22.1[dB] Peak:low 189Hz   library
-2022/08/28 07:12:16  whole:43.2[dB]  BASS:20.9[dB] Peak:bass96Hz   library
-2022/08/28 07:12:18  whole:44.5[dB]  BASS:20.3[dB] Peak:mid 340Hz   library
-2022/08/28 07:12:20  whole:44.1[dB]  BASS:20.0[dB] Peak:low 160Hz   library
-2022/08/28 07:12:21  whole:43.8[dB]  BASS:18.1[dB] Peak:low 133Hz   library
+2022/08/28 11:30:49  whole:52.2[dB]  BASS:30.3[dB] Peak:low 119Hz   Quiet office
+2022/08/28 11:30:51  whole:51.6[dB]  BASS:30.1[dB] Peak:low 141Hz   Quiet office
+2022/08/28 11:30:53  whole:50.8[dB]  BASS:29.9[dB] Peak:low 115Hz   Quiet office
+2022/08/28 11:30:54  whole:50.2[dB]  BASS:26.6[dB] Peak:low 191Hz   Quiet office
+2022/08/28 11:30:56  whole:50.3[dB]  BASS:29.6[dB] Peak:bass90Hz   Quiet office
+2022/08/28 11:30:58  whole:51.1[dB]  BASS:33.2[dB] Peak:low 127Hz   Quiet office
+2022/08/28 11:31:00  whole:69.4[dB]  BASS:66.8[dB] Peak:bass50Hz   Cicada chirping (2m) *caution *caution
+2022/08/28 11:31:02  whole:57.2[dB]  BASS:56.1[dB] Peak:low 109Hz   Vacuum cleaner (1m) *caution *caution
+2022/08/28 11:31:04  whole:51.6[dB]  BASS:41.9[dB] Peak:low 118Hz   Quiet office *caution
+2022/08/28 11:31:06  whole:51.6[dB]  BASS:30.8[dB] Peak:bass99Hz   Quiet office
+2022/08/28 11:31:08  whole:48.5[dB]  BASS:36.1[dB] Peak:low 141Hz   Quiet office
+2022/08/28 11:31:10  whole:49.5[dB]  BASS:36.6[dB] Peak:low 114Hz   Quiet office
+2022/08/28 11:31:12  whole:51.8[dB]  BASS:34.2[dB] Peak:bass97Hz   Quiet office
+2022/08/28 11:31:13  whole:51.2[dB]  BASS:29.5[dB] Peak:low 128Hz   Quiet office
+2022/08/28 11:31:15  whole:51.2[dB]  BASS:28.0[dB] Peak:low 140Hz   Quiet office
+2022/08/28 11:31:17  whole:52.7[dB]  BASS:29.0[dB] Peak:low 159Hz   Quiet office
+2022/08/28 11:31:19  whole:52.7[dB]  BASS:31.2[dB] Peak:low 126Hz   Quiet office
+2022/08/28 11:31:21  whole:52.0[dB]  BASS:26.8[dB] Peak:low 165Hz   Quiet office
+2022/08/28 11:31:23  whole:52.1[dB]  BASS:29.3[dB] Peak:low 219Hz   Quiet office
+2022/08/28 11:31:24  whole:53.3[dB]  BASS:27.0[dB] Peak:low 126Hz   Quiet office
+2022/08/28 11:31:26  whole:57.3[dB]  BASS:55.1[dB] Peak:bass55Hz   Vacuum cleaner (1m) *caution *caution
+2022/08/28 11:31:28  whole:52.9[dB]  BASS:33.0[dB] Peak:low 127Hz   Quiet office
+2022/08/28 11:31:30  whole:51.4[dB]  BASS:30.0[dB] Peak:low 127Hz   Quiet office
+2022/08/28 11:31:32  whole:52.0[dB]  BASS:30.0[dB] Peak:low 218Hz   Quiet office
+2022/08/28 11:31:34  whole:52.3[dB]  BASS:28.7[dB] Peak:low 125Hz   Quiet office
+2022/08/28 11:31:36  whole:51.9[dB]  BASS:30.6[dB] Peak:low 126Hz   Quiet office
+2022/08/28 11:31:37  whole:50.8[dB]  BASS:28.8[dB] Peak:low 187Hz   Quiet office
+2022/08/28 11:31:39  whole:50.3[dB]  BASS:28.5[dB] Peak:low 127Hz   Quiet office
+2022/08/28 11:31:41  whole:50.5[dB]  BASS:29.0[dB] Peak:low 115Hz   Quiet office
+2022/08/28 11:31:43  whole:51.9[dB]  BASS:29.7[dB] Peak:low 127Hz   Quiet office
+2022/08/28 11:31:44  whole:52.4[dB]  BASS:30.2[dB] Peak:mid 372Hz   Quiet office
+2022/08/28 11:31:46  whole:49.2[dB]  BASS:26.9[dB] Peak:bass95Hz   Quiet office
+2022/08/28 11:31:48  whole:53.0[dB]  BASS:30.7[dB] Peak:low 116Hz   Quiet office
+2022/08/28 11:31:50  whole:51.9[dB]  BASS:28.3[dB] Peak:bass99Hz   Quiet office
+2022/08/28 11:31:52  whole:49.7[dB]  BASS:27.8[dB] Peak:low 116Hz   Quiet office
+2022/08/28 11:31:54  whole:50.7[dB]  BASS:28.0[dB] Peak:low 116Hz   Quiet office
+2022/08/28 11:31:56  whole:50.8[dB]  BASS:32.4[dB] Peak:bass95Hz   Quiet office
+2022/08/28 11:31:57  whole:51.5[dB]  BASS:29.1[dB] Peak:low 184Hz   Quiet office
+2022/08/28 11:31:59  whole:51.6[dB]  BASS:29.0[dB] Peak:low 197Hz   Quiet office
+2022/08/28 11:32:01  whole:52.2[dB]  BASS:29.2[dB] Peak:low 159Hz   Quiet office
+2022/08/28 11:32:03  whole:53.4[dB]  BASS:29.1[dB] Peak:low 128Hz   Quiet office
+2022/08/28 11:32:05  whole:51.1[dB]  BASS:30.5[dB] Peak:low 154Hz   Quiet office
+2022/08/28 11:32:07  whole:51.6[dB]  BASS:27.0[dB] Peak:low 223Hz   Quiet office
+2022/08/28 11:32:08  whole:53.6[dB]  BASS:31.4[dB] Peak:low 127Hz   Quiet office
+2022/08/28 11:32:10  whole:50.9[dB]  BASS:28.2[dB] Peak:low 186Hz   Quiet office
+2022/08/28 11:32:12  whole:51.8[dB]  BASS:29.6[dB] Peak:low 125Hz   Quiet office
+2022/08/28 11:32:14  whole:52.7[dB]  BASS:27.8[dB] Peak:low 182Hz   Quiet office
+2022/08/28 11:32:16  whole:53.0[dB]  BASS:30.9[dB] Peak:low 120Hz   Quiet office
+2022/08/28 11:32:17  whole:53.7[dB]  BASS:30.1[dB] Peak:low 219Hz   Quiet office
+2022/08/28 11:32:19  whole:54.4[dB]  BASS:31.7[dB] Peak:low 197Hz   Quiet office
+2022/08/28 11:32:21  whole:50.0[dB]  BASS:30.2[dB] Peak:low 126Hz   Quiet office
+2022/08/28 11:32:23  whole:50.3[dB]  BASS:28.8[dB] Peak:bass99Hz   Quiet office
+2022/08/28 11:32:25  whole:52.0[dB]  BASS:31.1[dB] Peak:bass96Hz   Quiet office
+2022/08/28 11:32:27  whole:51.0[dB]  BASS:28.0[dB] Peak:low 143Hz   Quiet office
+2022/08/28 11:32:28  whole:51.4[dB]  BASS:27.3[dB] Peak:bass93Hz   Quiet office
+2022/08/28 11:32:30  whole:51.0[dB]  BASS:28.3[dB] Peak:bass96Hz   Quiet office
+2022/08/28 11:32:32  whole:50.1[dB]  BASS:29.7[dB] Peak:low 116Hz   Quiet office
+2022/08/28 11:32:34  whole:52.2[dB]  BASS:31.8[dB] Peak:bass97Hz   Quiet office
+2022/08/28 11:32:36  whole:52.1[dB]  BASS:27.2[dB] Peak:low 195Hz   Quiet office
+2022/08/28 11:32:37  whole:53.3[dB]  BASS:31.0[dB] Peak:low 202Hz   Quiet office
+2022/08/28 11:32:39  whole:51.8[dB]  BASS:29.7[dB] Peak:low 184Hz   Quiet office
+2022/08/28 11:32:41  whole:61.1[dB]  BASS:60.0[dB] Peak:low 127Hz   Vacuum cleaner (1m) *caution *caution
+2022/08/28 11:32:43  whole:51.8[dB]  BASS:29.3[dB] Peak:low 191Hz   Quiet office
+2022/08/28 11:32:45  whole:52.8[dB]  BASS:31.1[dB] Peak:low 218Hz   Quiet office
+2022/08/28 11:32:47  whole:52.0[dB]  BASS:28.7[dB] Peak:low 192Hz   Quiet office
+2022/08/28 11:32:49  whole:52.0[dB]  BASS:25.9[dB] Peak:low 215Hz   Quiet office
+2022/08/28 11:32:50  whole:53.7[dB]  BASS:33.5[dB] Peak:low 128Hz   Quiet office
+2022/08/28 11:32:52  whole:54.3[dB]  BASS:32.2[dB] Peak:low 127Hz   Quiet office
+2022/08/28 11:32:54  whole:54.8[dB]  BASS:31.7[dB] Peak:low 220Hz   Quiet office
+2022/08/28 11:32:56  whole:53.7[dB]  BASS:29.3[dB] Peak:low 192Hz   Quiet office
+2022/08/28 11:32:58  whole:53.4[dB]  BASS:33.7[dB] Peak:low 191Hz   Quiet office
+2022/08/28 11:33:00  whole:51.8[dB]  BASS:28.6[dB] Peak:low 124Hz   Quiet office
+2022/08/28 11:33:01  whole:51.6[dB]  BASS:30.7[dB] Peak:low 186Hz   Quiet office
+2022/08/28 11:33:03  whole:57.1[dB]  BASS:54.5[dB] Peak:low 125Hz   Vacuum cleaner (1m) *caution *caution
+2022/08/28 11:33:05  whole:52.0[dB]  BASS:45.3[dB] Peak:low 142Hz   Quiet office *caution
+2022/08/28 11:33:07  whole:50.0[dB]  BASS:26.4[dB] Peak:low 117Hz   Quiet office
+2022/08/28 11:33:09  whole:53.4[dB]  BASS:29.7[dB] Peak:low 127Hz   Quiet office
+2022/08/28 11:33:11  whole:53.4[dB]  BASS:31.4[dB] Peak:low 100Hz   Quiet office
+2022/08/28 11:33:13  whole:51.9[dB]  BASS:29.6[dB] Peak:low 119Hz   Quiet office
+2022/08/28 11:33:15  whole:47.5[dB]  BASS:27.5[dB] Peak:low 194Hz   Quiet office
+2022/08/28 11:33:17  whole:40.3[dB]  BASS:21.4[dB] Peak:low 125Hz   library
+2022/08/28 11:33:18  whole:32.9[dB]  BASS:14.0[dB] Peak:low 123Hz   Suburban Late Night
+2022/08/28 11:33:20  whole:26.5[dB]  BASS:9.5[dB] Peak:bass91Hz   Suburban Late Night
+2022/08/28 11:33:22  whole:25.8[dB]  BASS:11.8[dB] Peak:bass87Hz   Suburban Late Night
+2022/08/28 11:33:24  whole:25.7[dB]  BASS:10.0[dB] Peak:bass96Hz   Suburban Late Night
+2022/08/28 11:33:26  whole:29.7[dB]  BASS:10.7[dB] Peak:bass99Hz   Suburban Late Night
+2022/08/28 11:33:28  whole:38.2[dB]  BASS:13.5[dB] Peak:mid 505Hz   library
+2022/08/28 11:33:30  whole:49.9[dB]  BASS:46.6[dB] Peak:bass63Hz   Quiet office *caution
+2022/08/28 11:33:32  whole:38.4[dB]  BASS:12.5[dB] Peak:mid 391Hz   library
+2022/08/28 11:33:33  whole:42.5[dB]  BASS:16.1[dB] Peak:low 251Hz   library
+2022/08/28 11:33:35  whole:43.1[dB]  BASS:15.5[dB] Peak:low 261Hz   library
+2022/08/28 11:33:37  whole:44.3[dB]  BASS:14.6[dB] Peak:low 253Hz   library
+2022/08/28 11:33:39  whole:39.3[dB]  BASS:14.0[dB] Peak:low 294Hz   library
+2022/08/28 11:33:41  whole:41.8[dB]  BASS:14.9[dB] Peak:mid 334Hz   library
+2022/08/28 11:33:42  whole:37.2[dB]  BASS:13.0[dB] Peak:low 192Hz   library
+2022/08/28 11:33:44  whole:39.7[dB]  BASS:11.3[dB] Peak:mid 2343Hz   library
+2022/08/28 11:33:46  whole:44.3[dB]  BASS:15.9[dB] Peak:low 243Hz   library
+2022/08/28 11:33:48  whole:45.3[dB]  BASS:17.2[dB] Peak:low 262Hz   Quiet office
+2022/08/28 11:33:50  whole:42.7[dB]  BASS:13.5[dB] Peak:low 259Hz   library
+2022/08/28 11:33:52  whole:42.1[dB]  BASS:15.8[dB] Peak:low 289Hz   library
+2022/08/28 11:33:53  whole:43.3[dB]  BASS:17.1[dB] Peak:mid 344Hz   library
+2022/08/28 11:33:55  whole:42.8[dB]  BASS:15.8[dB] Peak:low 221Hz   library
+2022/08/28 11:33:57  whole:42.1[dB]  BASS:14.3[dB] Peak:low 171Hz   library
+2022/08/28 11:33:59  whole:47.7[dB]  BASS:21.3[dB] Peak:mid 333Hz   Quiet office
+2022/08/28 11:34:00  whole:49.2[dB]  BASS:20.9[dB] Peak:low 285Hz   Quiet office
+2022/08/28 11:34:02  whole:48.3[dB]  BASS:21.2[dB] Peak:mid 337Hz   Quiet office
+2022/08/28 11:34:04  whole:44.2[dB]  BASS:17.2[dB] Peak:low 293Hz   library
+2022/08/28 11:34:06  whole:43.8[dB]  BASS:17.1[dB] Peak:low 257Hz   library
+2022/08/28 11:34:08  whole:47.2[dB]  BASS:19.1[dB] Peak:mid 382Hz   Quiet office
+2022/08/28 11:34:09  whole:46.7[dB]  BASS:19.0[dB] Peak:low 285Hz   Quiet office
+2022/08/28 11:34:11  whole:45.8[dB]  BASS:19.0[dB] Peak:mid 338Hz   Quiet office
+2022/08/28 11:34:13  whole:47.0[dB]  BASS:20.5[dB] Peak:mid 357Hz   Quiet office
+2022/08/28 11:34:15  whole:46.8[dB]  BASS:17.9[dB] Peak:mid 386Hz   Quiet office
+2022/08/28 11:34:17  whole:47.6[dB]  BASS:21.0[dB] Peak:low 288Hz   Quiet office
+2022/08/28 11:34:19  whole:40.5[dB]  BASS:15.3[dB] Peak:low 298Hz   library
+2022/08/28 11:34:21  whole:50.9[dB]  BASS:47.3[dB] Peak:mid 401Hz   Quiet office *caution
+2022/08/28 11:34:23  whole:52.2[dB]  BASS:51.0[dB] Peak:mid 302Hz   Quiet office *caution
+2022/08/28 11:34:24  whole:45.2[dB]  BASS:16.2[dB] Peak:low 296Hz   Quiet office
+2022/08/28 11:34:26  whole:34.0[dB]  BASS:9.5[dB] Peak:low 297Hz   Suburban Late Night
+2022/08/28 11:34:28  whole:45.3[dB]  BASS:24.0[dB] Peak:low 178Hz   Quiet office
+2022/08/28 11:34:30  whole:42.8[dB]  BASS:22.8[dB] Peak:bass89Hz   library
+2022/08/28 11:34:32  whole:47.1[dB]  BASS:25.2[dB] Peak:low 114Hz   Quiet office
+2022/08/28 11:34:34  whole:43.5[dB]  BASS:22.7[dB] Peak:low 115Hz   library
+2022/08/28 11:34:35  whole:47.2[dB]  BASS:28.0[dB] Peak:bass95Hz   Quiet office
+2022/08/28 11:34:37  whole:44.5[dB]  BASS:22.4[dB] Peak:bass94Hz   library
+2022/08/28 11:34:39  whole:49.7[dB]  BASS:26.8[dB] Peak:low 125Hz   Quiet office
+2022/08/28 11:34:41  whole:44.2[dB]  BASS:21.3[dB] Peak:low 139Hz   library
+2022/08/28 11:34:43  whole:41.8[dB]  BASS:16.2[dB] Peak:low 256Hz   library
+2022/08/28 11:34:45  whole:42.5[dB]  BASS:16.6[dB] Peak:low 263Hz   library
+2022/08/28 11:34:46  whole:38.5[dB]  BASS:13.2[dB] Peak:mid 354Hz   library
+2022/08/28 11:34:48  whole:43.6[dB]  BASS:17.8[dB] Peak:low 223Hz   library
+2022/08/28 11:34:50  whole:38.9[dB]  BASS:14.3[dB] Peak:low 267Hz   library
+2022/08/28 11:34:51  whole:39.6[dB]  BASS:14.6[dB] Peak:low 193Hz   library
+2022/08/28 11:34:53  whole:37.6[dB]  BASS:14.3[dB] Peak:mid 390Hz   library
+2022/08/28 11:34:55  whole:43.8[dB]  BASS:18.7[dB] Peak:low 227Hz   library
+2022/08/28 11:34:57  whole:47.1[dB]  BASS:17.7[dB] Peak:low 254Hz   Quiet office
+2022/08/28 11:34:59  whole:46.3[dB]  BASS:17.7[dB] Peak:low 257Hz   Quiet office
+2022/08/28 11:35:00  whole:45.8[dB]  BASS:16.5[dB] Peak:low 216Hz   Quiet office
+2022/08/28 11:35:02  whole:45.6[dB]  BASS:19.0[dB] Peak:mid 358Hz   Quiet office
+2022/08/28 11:35:04  whole:47.2[dB]  BASS:18.9[dB] Peak:mid 335Hz   Quiet office
+2022/08/28 11:35:06  whole:43.0[dB]  BASS:16.9[dB] Peak:low 175Hz   library
+2022/08/28 11:35:08  whole:50.7[dB]  BASS:24.9[dB] Peak:mid 301Hz   Quiet office
+2022/08/28 11:35:09  whole:48.0[dB]  BASS:23.3[dB] Peak:low 292Hz   Quiet office
+2022/08/28 11:35:11  whole:49.0[dB]  BASS:23.8[dB] Peak:low 138Hz   Quiet office
+2022/08/28 11:35:13  whole:48.4[dB]  BASS:22.7[dB] Peak:low 241Hz   Quiet office
+2022/08/28 11:35:15  whole:48.7[dB]  BASS:25.4[dB] Peak:low 254Hz   Quiet office
+2022/08/28 11:35:17  whole:51.5[dB]  BASS:24.7[dB] Peak:low 204Hz   Quiet office
+2022/08/28 11:35:18  whole:49.9[dB]  BASS:26.3[dB] Peak:mid 353Hz   Quiet office
+2022/08/28 11:35:20  whole:56.8[dB]  BASS:28.2[dB] Peak:low 125Hz   Vacuum cleaner (1m) *caution
+2022/08/28 11:35:22  whole:49.4[dB]  BASS:23.0[dB] Peak:mid 343Hz   Quiet office
+2022/08/28 11:35:24  whole:48.9[dB]  BASS:21.7[dB] Peak:mid 385Hz   Quiet office
+2022/08/28 11:35:26  whole:50.1[dB]  BASS:24.7[dB] Peak:low 297Hz   Quiet office
+2022/08/28 11:35:28  whole:45.4[dB]  BASS:22.0[dB] Peak:low 140Hz   Quiet office
+2022/08/28 11:35:30  whole:49.7[dB]  BASS:24.5[dB] Peak:mid 397Hz   Quiet office
+2022/08/28 11:35:32  whole:47.7[dB]  BASS:21.9[dB] Peak:low 242Hz   Quiet office
+2022/08/28 11:35:33  whole:48.5[dB]  BASS:23.2[dB] Peak:low 293Hz   Quiet office
+2022/08/28 11:35:35  whole:43.0[dB]  BASS:20.7[dB] Peak:low 148Hz   library
+2022/08/28 11:35:37  whole:41.4[dB]  BASS:20.5[dB] Peak:low 115Hz   library
+2022/08/28 11:35:39  whole:42.5[dB]  BASS:21.5[dB] Peak:bass89Hz   library
+2022/08/28 11:35:40  whole:50.5[dB]  BASS:44.1[dB] Peak:low 127Hz   Quiet office *caution
+2022/08/28 11:35:42  whole:40.3[dB]  BASS:19.9[dB] Peak:low 114Hz   library
+2022/08/28 11:35:44  whole:42.2[dB]  BASS:21.9[dB] Peak:bass93Hz   library
+2022/08/28 11:35:46  whole:41.3[dB]  BASS:20.2[dB] Peak:bass94Hz   library
+2022/08/28 11:35:48  whole:44.1[dB]  BASS:22.3[dB] Peak:low 125Hz   library

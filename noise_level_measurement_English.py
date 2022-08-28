@@ -200,7 +200,7 @@ def main():
                 f = np.linspace(0.0, fs/2.0, len(power)) /1.0e3
                 # Plotting
                 size_f = 8
-                fig = plt.figure(figsize=[4,3], dpi=72, linewidth=0.0, tight_layout=T)
+                fig = plt.figure(figsize=[3.2,2.4], dpi=100, linewidth=0.0, tight_layout=T)
                 #plt.xscale("log",basex=10)
                 
                 axs = fig.subplots(1, 1)
@@ -220,7 +220,7 @@ def main():
                 
                 ############################################
                 pos = [0.050, 0.100, 0.300, 5.000, 10.000] 
-                ticks = ['50 BASS', '100 LOW', '300 MID', '5k HIGH', '10k ']
+                ticks = ['50', '100', '300', '5k', '10k ']
                 ax1.set_xticks(pos)
                 ax1.set_xticklabels(ticks)
                 ############################################
@@ -229,7 +229,7 @@ def main():
                 timestr = now.strftime("%Y%m%d_%H%M%S")
                 timestr = 'Last'
                 fig.align_ylabels()
-                fig.suptitle( strw.replace('*caution','') + " WHOLE{:.1f}[dB] BASS{:.1f}[dB] ".format(db, db2) + " / " + strp, fontsize=size_f)
+                fig.suptitle( strw.replace('*caution','') + " WH{:.1f}[dB] BA{:.1f}[dB] ".format(db, db2) + " / " + strp, fontsize=size_f)
                 fig.savefig(timestr + '.png')
                 im = Image.open(timestr + '.png')
                 im.show()
