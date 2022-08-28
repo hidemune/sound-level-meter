@@ -229,7 +229,7 @@ def main():
                 timestr = now.strftime("%Y%m%d_%H%M%S")
                 timestr = 'Last'
                 fig.align_ylabels()
-                fig.suptitle( strw.replace('*caution','') + " WH{:.1f}[dB] BA{:.1f}[dB] ".format(db, db2) + " / " + strp, fontsize=size_f)
+                fig.suptitle(now.strftime("%Y/%m/%d %H:%M:%S ") + '\n' + strw.replace('*caution','') + "\nWHOLE {:.1f}[dB]  BASS {:.1f}[dB] ".format(db, db2) + " " + strp, fontsize=size_f)
                 fig.savefig(timestr + '.png')
                 im = Image.open(timestr + '.png')
                 im.show()
