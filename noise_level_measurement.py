@@ -103,7 +103,7 @@ def butter_lowpass_filter(data, cutoff, fs, order=5):
 # Setting standard filter requirements.
 order = 6
 fs = SAMPLING_RATE
-cutoff = 50.0
+cutoff = 100.0
 
 b, a = butter_lowpass(cutoff, fs, order)
 
